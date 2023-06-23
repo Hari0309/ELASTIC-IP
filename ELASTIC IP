@@ -1,0 +1,4 @@
+WHAT IS ELASTIC IP ?
+An elestic IP is an statics or dynamic ip address.
+when we assign any elestic ip to the instance, the ip remain the same even we stop and start the instance.
+Only 5 elastic ip will be allowed in an account.
